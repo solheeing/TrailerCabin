@@ -9,6 +9,9 @@ For interior components, doghouse and rib structures were implemented to improve
 
 Throughout the process, continuous DPA was conducted to prevent interferences using notching, relief cut, and fillet matching. The project concludes with a structured BOM, family tree, and technical drawings to define the final assembly hierarchy.
 
+## 🚗 Process
+<img src="img/diagram.png">
+
 ## 📊 Results
 
 ### Rendering
